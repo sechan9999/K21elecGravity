@@ -101,6 +101,8 @@ npm run export
 ## 데이터 소스
 
 - **출처**: 중앙선거관리위원회 선거통계시스템
+- https://www.data.go.kr/data/15025528/fileData.do#layer_data_infomation
+  http://data.nec.go.kr/open-data/file.do?dataId=8
 - **선거**: 제21대 대통령선거 (2022년 3월 9일)
 - **데이터 형식**: CSV, JSON
 - **업데이트**: 개표 진행에 따라 실시간 업데이트
