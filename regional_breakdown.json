@@ -3,459 +3,459 @@
     "이재명": {
       "sorted": 339106,
       "reconfirm": 5700,
-      "total": 576991
+      "total": 449161
     },
     "김문수": {
       "sorted": 369959,
       "reconfirm": 23732,
-      "total": 27124765
+      "total": 483360
     },
     "이준석": {
       "sorted": 61004,
       "reconfirm": 15657,
-      "total": 397699
+      "total": 78704
     },
     "권영국": {
       "sorted": 7090,
       "reconfirm": 17888,
-      "total": 25189
+      "total": 9422
     },
     "송진호": {
       "sorted": 830,
       "reconfirm": 3196,
-      "total": 4343
+      "total": 1137
     }
   },
   "경기": {
     "이재명": {
       "sorted": 3064094,
       "reconfirm": 62294,
-      "total": 94773931359
+      "total": 4821148
     },
     "김문수": {
       "sorted": 2289719,
       "reconfirm": 2060851,
-      "total": 42602015
+      "total": 3504620
     },
     "이준석": {
       "sorted": 534974,
       "reconfirm": 143353,
-      "total": 800587
+      "total": 816435
     },
     "권영국": {
       "sorted": 55382,
       "reconfirm": 665195,
-      "total": 931487
+      "total": 84074
     },
     "송진호": {
       "sorted": 5428,
       "reconfirm": 24881,
-      "total": 32598
+      "total": 8356
     }
   },
   "경남": {
     "이재명": {
       "sorted": 597839,
       "reconfirm": 11417,
-      "total": 1163397
+      "total": 851733
     },
     "김문수": {
       "sorted": 815890,
       "reconfirm": 45539,
-      "total": 168559201
+      "total": 1123843
     },
     "이준석": {
       "sorted": 110930,
       "reconfirm": 26301,
-      "total": 419547
+      "total": 161579
     },
     "권영국": {
       "sorted": 15706,
       "reconfirm": 28356,
-      "total": 44978
+      "total": 21809
     },
     "송진호": {
       "sorted": 1870,
       "reconfirm": 6725,
-      "total": 8626
+      "total": 2678
     }
   },
   "경북": {
     "이재명": {
       "sorted": 383555,
       "reconfirm": 5965,
-      "total": 658117
+      "total": 442683
     },
     "김문수": {
       "sorted": 985490,
       "reconfirm": 55250,
-      "total": 1927371
+      "total": 1159594
     },
     "이준석": {
       "sorted": 100522,
       "reconfirm": 830652,
-      "total": 930201
+      "total": 116094
     },
     "권영국": {
       "sorted": 12033,
       "reconfirm": 19566,
-      "total": 31692
+      "total": 13884
     },
     "송진호": {
       "sorted": 1749,
       "reconfirm": 5919,
-      "total": 9181
+      "total": 1788
     }
   },
   "광주": {
     "이재명": {
       "sorted": 727760,
       "reconfirm": 28198,
-      "total": 729713
+      "total": 844682
     },
     "김문수": {
       "sorted": 143379,
       "reconfirm": 20003,
-      "total": 1136437
+      "total": 79937
     },
     "이준석": {
       "sorted": 60573,
       "reconfirm": 913694,
-      "total": 972538
+      "total": 62104
     },
     "권영국": {
       "sorted": 7872,
       "reconfirm": 8907,
-      "total": 18755
+      "total": 8767
     },
     "송진호": {
       "sorted": 790,
       "reconfirm": 3232,
-      "total": 4026
+      "total": 934
     }
   },
   "대구": {
     "이재명": {
       "sorted": 205690,
       "reconfirm": 2247,
-      "total": 252315
+      "total": 379130
     },
     "김문수": {
       "sorted": 579405,
       "reconfirm": 19013,
-      "total": 13557166
+      "total": 1103913
     },
     "이준석": {
       "sorted": 73882,
       "reconfirm": 18218,
-      "total": 97224
+      "total": 135376
     },
     "권영국": {
       "sorted": 6661,
       "reconfirm": 801151,
-      "total": 809555
+      "total": 12531
     },
     "송진호": {
       "sorted": 911,
       "reconfirm": 3435,
-      "total": 4391
+      "total": 1362
     }
   },
   "대전": {
     "이재명": {
       "sorted": 328266,
       "reconfirm": 10189,
-      "total": 382122
+      "total": 470321
     },
     "김문수": {
       "sorted": 268117,
       "reconfirm": 21997,
-      "total": 344020
+      "total": 393549
     },
     "이준석": {
       "sorted": 65720,
       "reconfirm": 7032,
-      "total": 72395
+      "total": 94724
     },
     "권영국": {
       "sorted": 6754,
       "reconfirm": 6406,
-      "total": 19288
+      "total": 9905
     },
     "송진호": {
       "sorted": 783,
       "reconfirm": 2937,
-      "total": 3798
+      "total": 1109
     }
   },
   "부산": {
     "이재명": {
       "sorted": 895255,
       "reconfirm": 15648,
-      "total": 28185524
+      "total": 895213
     },
     "김문수": {
       "sorted": 1125845,
       "reconfirm": 31367,
-      "total": 15443754
+      "total": 1146238
     },
     "이준석": {
       "sorted": 173311,
       "reconfirm": 24766,
-      "total": 195540
+      "total": 168473
     },
     "권영국": {
       "sorted": 18521,
       "reconfirm": 24108,
-      "total": 42763
+      "total": 18189
     },
     "송진호": {
       "sorted": 2047,
       "reconfirm": 11554,
-      "total": 13615
+      "total": 2099
     }
   },
   "서울": {
     "이재명": {
       "sorted": 1261346,
       "reconfirm": 26032,
-      "total": 61561939
+      "total": 3105459
     },
     "김문수": {
       "sorted": 1014844,
       "reconfirm": 65846,
-      "total": 1150335
+      "total": 2738405
     },
     "이준석": {
       "sorted": 255681,
       "reconfirm": 33973,
-      "total": 337522
+      "total": 655346
     },
     "권영국": {
       "sorted": 34545,
       "reconfirm": 27777,
-      "total": 63621
+      "total": 83900
     },
     "송진호": {
       "sorted": 2378,
       "reconfirm": 12870,
-      "total": 15399
+      "total": 5998
     }
   },
   "세종": {
     "이재명": {
       "sorted": 158216,
       "reconfirm": 1282,
-      "total": 156700
+      "total": 140620
     },
     "김문수": {
       "sorted": 89727,
       "reconfirm": 5147,
-      "total": 93601
+      "total": 83965
     },
     "이준석": {
       "sorted": 29068,
       "reconfirm": 6162,
-      "total": 35071
+      "total": 25004
     },
     "권영국": {
       "sorted": 3263,
       "reconfirm": 3914,
-      "total": 7168
+      "total": 2961
     },
     "송진호": {
       "sorted": 255,
       "reconfirm": 1524,
-      "total": 1784
+      "total": 235
     }
   },
   "울산": {
     "이재명": {
       "sorted": 316307,
       "reconfirm": 8170,
-      "total": 39219589
+      "total": 315820
     },
     "김문수": {
       "sorted": 347368,
       "reconfirm": 10379,
-      "total": 355612
+      "total": 353180
     },
     "이준석": {
       "sorted": 63500,
       "reconfirm": 7327,
-      "total": 66040
+      "total": 63177
     },
     "권영국": {
       "sorted": 9744,
       "reconfirm": 9666,
-      "total": 19298
+      "total": 9299
     },
     "송진호": {
       "sorted": 893,
       "reconfirm": 5420,
-      "total": 6316
+      "total": 899
     }
   },
   "인천": {
     "이재명": {
       "sorted": 468952,
       "reconfirm": 28197,
-      "total": 492696
+      "total": 1044295
     },
     "김문수": {
       "sorted": 325998,
       "reconfirm": 17020,
-      "total": 14106602
+      "total": 776952
     },
     "이준석": {
       "sorted": 76949,
       "reconfirm": 10396,
-      "total": 87292
+      "total": 176739
     },
     "권영국": {
       "sorted": 8791,
       "reconfirm": 7978,
-      "total": 17212
+      "total": 20743
     },
     "송진호": {
       "sorted": 943,
       "reconfirm": 11410,
-      "total": 12515
+      "total": 2098
     }
   },
   "전남": {
     "이재명": {
       "sorted": 915653,
       "reconfirm": 16958,
-      "total": 901978
+      "total": 1111941
     },
     "김문수": {
       "sorted": 90422,
       "reconfirm": 58582,
-      "total": 441435
+      "total": 110624
     },
     "이준석": {
       "sorted": 49324,
       "reconfirm": 13783,
-      "total": 61197
+      "total": 60822
     },
     "권영국": {
       "sorted": 7694,
       "reconfirm": 10211,
-      "total": 18405
+      "total": 9352
     },
     "송진호": {
       "sorted": 17225,
       "reconfirm": 4791,
-      "total": 22415
+      "total": 2104
     }
   },
   "전북": {
     "이재명": {
       "sorted": 777628,
       "reconfirm": 37845,
-      "total": 28410222
+      "total": 1023272
     },
     "김문수": {
       "sorted": 102396,
       "reconfirm": 43709,
-      "total": 145440
+      "total": 134996
     },
     "이준석": {
       "sorted": 52525,
       "reconfirm": 29571,
-      "total": 81560
+      "total": 67961
     },
     "권영국": {
       "sorted": 7587,
       "reconfirm": 9329,
-      "total": 18323
+      "total": 10061
     },
     "송진호": {
       "sorted": 1164,
       "reconfirm": 327668,
-      "total": 329865
+      "total": 1719
     }
   },
   "제주": {
     "이재명": {
       "sorted": 734333,
       "reconfirm": 21254,
-      "total": 755587
+      "total": 228729
     },
     "김문수": {
       "sorted": 249548,
       "reconfirm": 7284,
-      "total": 256841
+      "total": 145290
     },
     "이준석": {
       "sorted": 83258,
       "reconfirm": 2809,
-      "total": 86067
+      "total": 36909
     },
     "권영국": {
       "sorted": 14626,
       "reconfirm": 604,
-      "total": 15230
+      "total": 6191
     },
     "송진호": {
       "sorted": 941,
       "reconfirm": 96,
-      "total": 1037
+      "total": 528
     }
   },
   "충남": {
     "이재명": {
       "sorted": 410895,
       "reconfirm": 6980,
-      "total": 1314079
+      "total": 661316
     },
     "김문수": {
       "sorted": 406525,
       "reconfirm": 21967,
-      "total": 1967096
+      "total": 600108
     },
     "이준석": {
       "sorted": 62929,
       "reconfirm": 347872,
-      "total": 411178
+      "total": 111092
     },
     "권영국": {
       "sorted": 7689,
       "reconfirm": 12079,
-      "total": 20218
+      "total": 12893
     },
     "송진호": {
       "sorted": 1008,
       "reconfirm": 3244,
-      "total": 4289
+      "total": 1519
     }
   },
   "충북": {
     "이재명": {
       "sorted": 432808,
       "reconfirm": 2727,
-      "total": 439404
+      "total": 501990
     },
     "김문수": {
       "sorted": 384726,
       "reconfirm": 19881,
-      "total": 1269293
+      "total": 457065
     },
     "이준석": {
       "sorted": 75638,
       "reconfirm": 864329,
-      "total": 1079845
+      "total": 86984
     },
     "권영국": {
       "sorted": 8857,
       "reconfirm": 10075,
-      "total": 21565
+      "total": 10169
     },
     "송진호": {
       "sorted": 1014,
       "reconfirm": 3899,
-      "total": 5032
+      "total": 1228
     }
   }
 }
