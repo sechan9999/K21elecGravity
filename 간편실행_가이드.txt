@@ -1,0 +1,70 @@
+╔══════════════════════════════════════════════════════════════════════╗
+║           K21 대선 대시보드 - 간편 실행 가이드                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📥 방법 1: 가장 간단한 방법 (서버 불필요)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. GitHub에서 프로젝트 다운로드:
+   https://github.com/sechan9999/K21elecGravity/archive/refs/heads/claude/review-changes-mjr4v57x1h5a9ius-aQ6jY.zip
+
+2. ZIP 파일 압축 해제
+
+3. 파일 탐색기에서 dashboard_nationwide.html 더블클릭
+   → 브라우저에서 바로 열림!
+
+주의: 엑셀 다운로드 버튼은 로컬 서버 실행 시에만 작동합니다.
+     엑셀 파일은 직접 열어서 사용하세요.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🚀 방법 2: 로컬 서버 실행 (추천)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Windows:
+  1. 다운로드한 폴더에서 Shift + 우클릭 → "여기서 PowerShell 창 열기"
+  2. 명령어 입력:
+     python -m http.server 3000
+  3. 브라우저에서 접속:
+     http://localhost:3000/dashboard_nationwide.html
+
+Mac/Linux:
+  1. 터미널에서 다운로드 폴더로 이동
+  2. 명령어 입력:
+     ./start_dashboard.sh
+     또는
+     python3 -m http.server 3000
+  3. 브라우저에서 접속:
+     http://localhost:3000/dashboard_nationwide.html
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📊 직접 다운로드 링크
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+전국 대시보드:
+https://github.com/sechan9999/K21elecGravity/raw/claude/review-changes-mjr4v57x1h5a9ius-aQ6jY/dashboard_nationwide.html
+
+엑셀 파일 (7개 시트):
+https://github.com/sechan9999/K21elecGravity/raw/claude/review-changes-mjr4v57x1h5a9ius-aQ6jY/K21_대선_개표결과_상세.xlsx
+
+엑셀 파일 (18개 탭):
+https://github.com/sechan9999/K21elecGravity/raw/claude/review-changes-mjr4v57x1h5a9ius-aQ6jY/election_results_complete.xlsx
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+❓ 문제 해결
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Q: Python이 없다고 나옵니다
+A: Python 설치 필요
+   Windows: https://www.python.org/downloads/
+   Mac: 이미 설치되어 있음 (python3 명령 사용)
+
+Q: 포트 3000이 이미 사용중입니다
+A: 다른 포트 사용:
+   python -m http.server 8000
+   → http://localhost:8000/dashboard_nationwide.html
+
+Q: 대시보드가 이상하게 보입니다
+A: 최신 브라우저 사용 (Chrome, Firefox, Safari, Edge)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

@@ -1460,9 +1460,14 @@
                                 전체해제
                             </button>
                             <button className="btn btn-export" onClick={() => {
-                                window.location.href = 'election_results_complete.xlsx';
+                                window.location.href = 'K21_대선_개표결과_상세.xlsx';
                             }}>
-                                📊 엑셀 다운로드 (18개 탭)
+                                📊 엑셀 다운로드 (7개 시트)
+                            </button>
+                            <button className="btn btn-export" onClick={() => {
+                                window.location.href = 'election_results_complete.xlsx';
+                            }} style={{marginLeft: '8px'}}>
+                                📥 기존 엑셀 (18개 탭)
                             </button>
                         </div>
                     </div>
